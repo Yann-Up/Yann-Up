@@ -4,7 +4,7 @@
 <!-- 动态打字 -->
 <div align="center">
    <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Java+/+Go+/+PHP+/+Rust+/+TypeScript;Spring+/+Vue+/+three.js+/+Tauri;Docker+/+llama.cpp+/+MCP+/C;%E4%BB%A5%E4%B8%8A%E6%8A%80%E6%9C%AF%E6%A0%88%E2%80%A6%E2%80%A6%E9%83%BD%E4%B8%8D%E4%BC%9A%EF%BC%8C%E6%88%91%E6%9C%89+AI+%E7%89%9B%E9%A9%AC" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Java+/+Go+/+PHP+/+Rust+/+TypeScript;Spring+/+Vue+/+three.js+/+Tauri;Docker+/+llama.cpp+/+MCP+/+C;%E4%BB%A5%E4%B8%8A%E6%8A%80%E6%9C%AF%E6%A0%88%E2%80%A6%E2%80%A6%E9%83%BD%E4%B8%8D%E4%BC%9A%EF%BC%8C%E6%88%91%E6%9C%89+AI+%E7%89%9B%E9%A9%AC" alt="Typing SVG" />
   </a>
 </div>
 
