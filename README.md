@@ -1,10 +1,10 @@
 <!-- 顶部渐变波浪横幅 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Yann-Up&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Java%20Full-Stack%20%C3%97%20AI%20Engineering%20%C3%97%203D%20Visualization&descSize=18&descAlignY=55&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Yann-Up&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=%E4%B9%A6%E5%B1%B1%E6%9C%89%E8%B7%AF%E5%8B%A4%E4%B8%BA%E5%BE%84%EF%BC%8C%E5%AD%A6%E6%B5%B7%E6%97%A0%E6%B6%AF%E2%80%A6%E2%80%A6%20%E7%AE%97%E4%BA%86%EF%BC%8C%E8%BF%98%E6%98%AF%E5%88%AB%E5%AD%A6%E4%BA%86&descSize=20&descAlignY=58&animation=fadeIn" alt="header" />
 
 <!-- 动态打字 -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=%E5%86%99%E5%90%8E%E7%AB%AF%EF%BC%8C%E4%B9%9F%E5%86%99+3D+%E5%9C%BA%E6%99%AF%E5%92%8C%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8;Java+%2F+Go+%2F+PHP+%E5%A4%9A%E8%AF%AD%E8%A8%80%E5%90%8E%E7%AB%AF%E6%9E%B6%E6%9E%84;three.js+%C3%97+Tauri+%C3%97+Rust+%E5%B7%A5%E4%B8%9A%E5%8F%AF%E8%A7%86%E5%8C%96;llama.cpp+%E9%87%8F%E5%8C%96%E6%A8%A1%E5%9E%8B%E7%A7%81%E6%9C%89%E5%8C%96%E9%83%A8%E7%BD%B2;HLS+%2F+H.265+%E6%B5%8F%E8%A7%88%E5%99%A8%E6%B5%81%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE" alt="Typing SVG" />
+   <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Java+/+Go+/+PHP+/+Rust+/+TypeScript;Spring+/+Vue+/+three.js+/+Tauri;Docker+/+llama.cpp+/+MCP+/C;%E4%BB%A5%E4%B8%8A%E6%8A%80%E6%9C%AF%E6%A0%88%E2%80%A6%E2%80%A6%E9%83%BD%E4%B8%8D%E4%BC%9A%EF%BC%8C%E6%88%91%E6%9C%89+AI+%E7%89%9B%E9%A9%AC" alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,29 +15,6 @@
 </div>
 
 <br>
-
-## ⚡ 关于我
-
-```java
-public class Yann extends Developer {
-
-    private final String[] languages = {"Java", "Go", "PHP", "Rust", "TypeScript"};
-
-    private final String[] focus = {
-        "多语言后端平台架构"
-    };
-
-    private final String motto = "系统设计优于代码堆砌";
-
-    public void daily() {
-        while (alive) {
-            code();
-            deploy();
-            refactor();   // 正在从 IDEA 迁移到 VSCode
-        }
-    }
-}
-```
 
 <br>
 
@@ -50,11 +27,6 @@ public class Yann extends Developer {
 <br>
 
 ## 📊 GitHub 数据
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yann-Up&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yann-Up&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Yann-Up&theme=tokyonight&hide_border=true" alt="streak" />
@@ -80,11 +52,8 @@ public class Yann extends Developer {
 
 ## 🏆 成就
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yann-Up&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies" />
-</div>
+没有成就，普通牛马一个~
 
-<br>
 
 ## 📫 找到我
 
